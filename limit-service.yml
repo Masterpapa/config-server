@@ -1,0 +1,3 @@
+limitservice:
+  maximum: 9001
+  minimum: 89001
